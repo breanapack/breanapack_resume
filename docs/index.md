@@ -39,19 +39,19 @@ ___Ceo and founder___
 ### Coding
 
 `January 2022 - Present`
+
 __Python__
 
-- 
 
 `January 2022 - Present`
-__R__, 
 
-- 
+__R__ 
+
 
 `September 2022 - Present`
+
 ___SQL___
 
-- 
 
 ## Service and Work History
 
